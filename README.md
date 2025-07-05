@@ -1,1 +1,1 @@
-"Just copy files to your project file then run!. https://github.com/mitchomeke/CV-Page" 
+"Just copy files to your project folder then run!. https://roadmap.sh/projects/single-page-cv" 
