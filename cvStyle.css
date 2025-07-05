@@ -9,7 +9,7 @@ hr {
 div {
     /* styling the big rectangle */
     width: 90vw;
-    height: 95vh;
+    height: 120vh;
     border: 2px solid black;
 }
 
@@ -30,5 +30,30 @@ h3 {
     margin-left: 55px;
 }
 p{
+    margin-left: 55px;
+}
+
+h4 {
+    margin-left: 55px;
+    color: darkgreen;
+}
+h5 {
+    font-size: 15px;
+    margin-left: 55px;
+    color: darkgreen;
+}
+p1 {
+    margin-left: 55px;
+    color: blue;
+
+}
+h6 {
+    margin-left: 55px;
+    color: green;
+    font-size: 15px;
+}
+
+h7 {
+    color: green;
     margin-left: 55px;
 }
